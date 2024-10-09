@@ -5,8 +5,9 @@ session_start();
     $c = $_POST['c'];
 
     $_SESSION['a'] = $a;
-    $_SESSION['b'] = $b;
+    $_SESSION['b'] = $b; 
     $_SESSION['c'] = $c;
+
 ?>
     <h2>Seleccione una Operación</h2>
     <div class="principal">

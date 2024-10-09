@@ -1,4 +1,5 @@
 <?php
+
 class Operaciones {
     private $a;
     private $b;
